@@ -11,6 +11,6 @@ Imprudente: no hay tiempo solo copy y pega eso de nuevo
 Inadvertido: falta de conocimiento
 Prudente: Tenemos que entregar rapido
 
-# Refactorizacion
+## Refactorizacion
 
 Proceso que tiene como objetivo mejorar el cdodigo sin alterar su comportamiento
